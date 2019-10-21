@@ -1,6 +1,6 @@
 certifi==2018.8.13
 chardet==3.0.4
-Django==2.1
+Django==2.1.11
 django-qiniu-storage==2.3.1
 elasticsearch==6.3.1
 elasticsearch-dsl==6.2.1
